@@ -1,0 +1,7 @@
+** SART experiment conducted on:	01/07/2003 15:51:20
+Participant name: 	1
+Participant DOB: 	1
+Participant Sex: 	
+Notes:	1
+Response locking:	True
+Random order:	True

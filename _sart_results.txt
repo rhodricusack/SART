@@ -1,0 +1,2250 @@
+SART experiment:	18/12/2002 17:21:44
+Response locking:	False
+Random order:	True
+ 1 	 0 	False	 0 
+ 2 	 0 	True	 424.772282510766 
+ 3 	 0 	True	 365.686909928497 
+ 4 	 0 	True	 249.440641198812 
+ 5 	 0 	True	 230.693076913407 
+ 6 	 0 	True	 209.039277338321 
+ 7 	 0 	True	 221.813875785889 
+ 8 	 0 	True	 225.718073107057 
+ 9 	 0 	True	 203.843854456363 
+ 10 	 0 	True	 198.90586652773 
+ 11 	 0 	True	 222.382104429473 
+ 12 	 0 	True	 211.718528472195 
+ 13 	 0 	True	 229.478397394083 
+ 14 	 0 	True	 221.826936105008 
+ 15 	 0 	True	 211.829925311737 
+ 16 	 0 	True	 104.666933925961 
+ 17 	 0 	True	 166.137386176175 
+ 18 	 0 	True	 170.329329565629 
+ 19 	 0 	True	 214.571614548775 
+ 20 	 0 	True	 196.056761404034 
+ 21 	 0 	True	 143.586475376062 
+ 22 	 0 	True	 93.5287864798447 
+ 23 	 0 	True	 49.3684951579053 
+ 24 	 1 	True	 16.8339830900295 
+ 25 	 0 	True	 15.3411257576045 
+ 26 	 0 	True	 99.5186539071292 
+ 27 	 0 	False	 0 
+ 28 	 0 	False	 0 
+ 29 	 0 	False	 0 
+ 30 	 0 	False	 0 
+ 31 	 0 	False	 0 
+ 32 	 0 	False	 0 
+ 33 	 0 	False	 0 
+ 34 	 0 	False	 0 
+ 35 	 0 	False	 0 
+ 36 	 0 	False	 0 
+ 37 	 0 	False	 0 
+ 38 	 0 	False	 0 
+ 39 	 0 	False	 0 
+ 40 	 0 	False	 0 
+ 41 	 0 	False	 0 
+ 42 	 0 	False	 0 
+ 43 	 0 	False	 0 
+ 44 	 0 	False	 0 
+ 45 	 0 	False	 0 
+ 46 	 0 	False	 0 
+ 47 	 0 	False	 0 
+ 48 	 0 	False	 0 
+ 49 	 0 	False	 0 
+ 50 	 0 	False	 0 
+ 51 	 0 	False	 0 
+ 52 	 0 	False	 0 
+ 53 	 0 	False	 0 
+ 54 	 0 	False	 0 
+ 55 	 0 	False	 0 
+ 56 	 0 	False	 0 
+ 57 	 0 	False	 0 
+ 58 	 0 	False	 0 
+ 59 	 0 	False	 0 
+ 60 	 0 	False	 0 
+ 61 	 0 	False	 0 
+ 62 	 0 	False	 0 
+ 63 	 0 	False	 0 
+ 64 	 0 	False	 0 
+ 65 	 0 	False	 0 
+ 66 	 0 	False	 0 
+ 67 	 0 	False	 0 
+ 68 	 0 	False	 0 
+ 69 	 0 	False	 0 
+ 70 	 0 	False	 0 
+ 71 	 0 	False	 0 
+ 72 	 0 	False	 0 
+ 73 	 0 	False	 0 
+ 74 	 0 	False	 0 
+ 75 	 0 	False	 0 
+ 76 	 0 	False	 0 
+ 77 	 0 	False	 0 
+ 78 	 0 	False	 0 
+ 79 	 0 	False	 0 
+ 80 	 0 	False	 0 
+ 81 	 0 	False	 0 
+ 82 	 0 	False	 0 
+ 83 	 0 	False	 0 
+ 84 	 0 	False	 0 
+ 85 	 0 	False	 0 
+ 86 	 0 	False	 0 
+ 87 	 0 	False	 0 
+ 88 	 0 	False	 0 
+ 89 	 0 	False	 0 
+ 90 	 0 	False	 0 
+ 91 	 0 	False	 0 
+ 92 	 0 	False	 0 
+ 93 	 0 	False	 0 
+ 94 	 0 	False	 0 
+ 95 	 0 	False	 0 
+ 96 	 0 	False	 0 
+ 97 	 0 	False	 0 
+ 98 	 0 	False	 0 
+ 99 	 0 	False	 0 
+ 100 	 0 	False	 0 
+ 101 	 0 	False	 0 
+ 102 	 0 	False	 0 
+ 103 	 0 	False	 0 
+ 104 	 0 	False	 0 
+ 105 	 0 	False	 0 
+ 106 	 0 	False	 0 
+ 107 	 0 	False	 0 
+ 108 	 0 	False	 0 
+ 109 	 0 	False	 0 
+ 110 	 0 	False	 0 
+ 111 	 0 	False	 0 
+ 112 	 0 	False	 0 
+ 113 	 0 	False	 0 
+ 114 	 0 	False	 0 
+ 115 	 0 	False	 0 
+ 116 	 0 	False	 0 
+ 117 	 0 	False	 0 
+ 118 	 0 	False	 0 
+ 119 	 0 	False	 0 
+ 120 	 0 	False	 0 
+ 121 	 0 	False	 0 
+ 122 	 0 	False	 0 
+ 123 	 0 	False	 0 
+ 124 	 0 	False	 0 
+ 125 	 0 	False	 0 
+ 126 	 0 	False	 0 
+ 127 	 0 	False	 0 
+ 128 	 0 	False	 0 
+ 129 	 0 	False	 0 
+ 130 	 0 	False	 0 
+ 131 	 0 	False	 0 
+ 132 	 0 	False	 0 
+ 133 	 0 	False	 0 
+ 134 	 0 	False	 0 
+ 135 	 0 	False	 0 
+ 136 	 0 	False	 0 
+ 137 	 0 	False	 0 
+ 138 	 0 	False	 0 
+ 139 	 0 	False	 0 
+ 140 	 0 	False	 0 
+ 141 	 0 	False	 0 
+ 142 	 0 	False	 0 
+ 143 	 0 	False	 0 
+ 144 	 0 	False	 0 
+ 145 	 0 	False	 0 
+ 146 	 0 	False	 0 
+ 147 	 0 	False	 0 
+ 148 	 0 	False	 0 
+ 149 	 0 	False	 0 
+ 150 	 0 	False	 0 
+ 151 	 0 	False	 0 
+ 152 	 0 	False	 0 
+ 153 	 0 	False	 0 
+ 154 	 0 	False	 0 
+ 155 	 0 	False	 0 
+ 156 	 0 	False	 0 
+ 157 	 0 	False	 0 
+ 158 	 0 	False	 0 
+ 159 	 0 	False	 0 
+ 160 	 0 	False	 0 
+ 161 	 0 	False	 0 
+ 162 	 0 	False	 0 
+ 163 	 0 	False	 0 
+ 164 	 0 	False	 0 
+ 165 	 0 	False	 0 
+ 166 	 0 	False	 0 
+ 167 	 0 	False	 0 
+ 168 	 0 	False	 0 
+ 169 	 0 	False	 0 
+ 170 	 0 	False	 0 
+ 171 	 0 	False	 0 
+ 172 	 0 	False	 0 
+ 173 	 0 	False	 0 
+ 174 	 0 	False	 0 
+ 175 	 0 	False	 0 
+ 176 	 0 	False	 0 
+ 177 	 0 	False	 0 
+ 178 	 0 	False	 0 
+ 179 	 0 	False	 0 
+ 180 	 0 	False	 0 
+ 181 	 0 	False	 0 
+ 182 	 0 	False	 0 
+ 183 	 0 	False	 0 
+ 184 	 0 	False	 0 
+ 185 	 0 	False	 0 
+ 186 	 0 	False	 0 
+ 187 	 0 	False	 0 
+ 188 	 0 	False	 0 
+ 189 	 0 	False	 0 
+ 190 	 0 	False	 0 
+ 191 	 0 	False	 0 
+ 192 	 0 	False	 0 
+ 193 	 0 	False	 0 
+ 194 	 0 	False	 0 
+ 195 	 0 	False	 0 
+ 196 	 0 	False	 0 
+ 197 	 0 	False	 0 
+ 198 	 0 	False	 0 
+ 199 	 0 	False	 0 
+ 200 	 0 	False	 0 
+ 201 	 0 	False	 0 
+ 202 	 0 	False	 0 
+ 203 	 0 	False	 0 
+ 204 	 0 	False	 0 
+ 205 	 0 	False	 0 
+ 206 	 0 	False	 0 
+ 207 	 0 	False	 0 
+ 208 	 0 	False	 0 
+ 209 	 0 	False	 0 
+ 210 	 0 	False	 0 
+ 211 	 0 	False	 0 
+ 212 	 0 	False	 0 
+ 213 	 0 	False	 0 
+ 214 	 0 	False	 0 
+ 215 	 0 	False	 0 
+ 216 	 0 	False	 0 
+ 217 	 0 	False	 0 
+ 218 	 0 	False	 0 
+ 219 	 0 	False	 0 
+ 220 	 0 	False	 0 
+ 221 	 0 	False	 0 
+ 222 	 0 	False	 0 
+ 223 	 0 	False	 0 
+ 224 	 0 	False	 0 
+ 225 	 0 	False	 0 
+SART experiment:	18/12/2002 17:25:27
+Response locking:	False
+Random order:	True
+SART experiment:	18/12/2002 17:26:56
+Response locking:	True
+Random order:	True
+SART experiment conducted on:	18/12/2002 17:49:33
+Participant name: 	
+Participant DOB: 	
+Response locking:	True
+Random order:	True
+SART experiment conducted on:	18/12/2002 17:49:56
+Participant name: 	
+Participant DOB: 	
+Response locking:	True
+Random order:	True
+SART experiment conducted on:	18/12/2002 17:51:23
+Participant name: 	
+Participant DOB: 	
+Response locking:	True
+Random order:	True
+*RESULTS SUMMARY
+Errors of commission (number of 3s pressed for)	1
+Errors of omission (missed presses for non-3s)	200
+  - of which 0 were anticipatory responses.
+Mean correct RT 30.3003668529567
+Standard deviation of RT  90.6801929761623 
+ 1 	 0 	True	 661.8 
+ 2 	 0 	True	 288.9 
+ 3 	 0 	True	 256.2 
+ 4 	 0 	True	 306.7 
+ 5 	 0 	True	 333.8 
+ 6 	 0 	True	 289.5 
+ 7 	 0 	True	 277.9 
+ 8 	 0 	True	 274.5 
+ 9 	 0 	True	 266 
+ 10 	 0 	True	 276.8 
+ 11 	 0 	True	 250.4 
+ 12 	 0 	True	 247.1 
+ 13 	 0 	True	 244.2 
+ 14 	 0 	True	 269.9 
+ 15 	 0 	True	 261.1 
+ 16 	 0 	True	 246.8 
+ 17 	 0 	True	 264.2 
+ 18 	 0 	True	 238.8 
+ 19 	 0 	True	 225 
+ 20 	 0 	True	 276.8 
+ 21 	 0 	True	 139.7 
+ 22 	 0 	True	 222.8 
+ 23 	 1 	True	 222.7 
+ 24 	 0 	True	 256.6 
+ 25 	 0 	True	 219.2 
+ 26 	 0 	False	 0 
+ 27 	 0 	False	 0 
+ 28 	 0 	False	 0 
+ 29 	 0 	False	 0 
+ 30 	 0 	False	 0 
+ 31 	 0 	False	 0 
+ 32 	 0 	False	 0 
+ 33 	 0 	False	 0 
+ 34 	 0 	False	 0 
+ 35 	 0 	False	 0 
+ 36 	 0 	False	 0 
+ 37 	 0 	False	 0 
+ 38 	 0 	False	 0 
+ 39 	 0 	False	 0 
+ 40 	 0 	False	 0 
+ 41 	 0 	False	 0 
+ 42 	 0 	False	 0 
+ 43 	 0 	False	 0 
+ 44 	 0 	False	 0 
+ 45 	 0 	False	 0 
+ 46 	 0 	False	 0 
+ 47 	 0 	False	 0 
+ 48 	 0 	False	 0 
+ 49 	 0 	False	 0 
+ 50 	 0 	False	 0 
+ 51 	 0 	False	 0 
+ 52 	 0 	False	 0 
+ 53 	 0 	False	 0 
+ 54 	 0 	False	 0 
+ 55 	 0 	False	 0 
+ 56 	 0 	False	 0 
+ 57 	 0 	False	 0 
+ 58 	 0 	False	 0 
+ 59 	 0 	False	 0 
+ 60 	 0 	False	 0 
+ 61 	 0 	False	 0 
+ 62 	 0 	False	 0 
+ 63 	 0 	False	 0 
+ 64 	 0 	False	 0 
+ 65 	 0 	False	 0 
+ 66 	 0 	False	 0 
+ 67 	 0 	False	 0 
+ 68 	 0 	False	 0 
+ 69 	 0 	False	 0 
+ 70 	 0 	False	 0 
+ 71 	 0 	False	 0 
+ 72 	 0 	False	 0 
+ 73 	 0 	False	 0 
+ 74 	 0 	False	 0 
+ 75 	 0 	False	 0 
+ 76 	 0 	False	 0 
+ 77 	 0 	False	 0 
+ 78 	 0 	False	 0 
+ 79 	 0 	False	 0 
+ 80 	 0 	False	 0 
+ 81 	 0 	False	 0 
+ 82 	 0 	False	 0 
+ 83 	 0 	False	 0 
+ 84 	 0 	False	 0 
+ 85 	 0 	False	 0 
+ 86 	 0 	False	 0 
+ 87 	 0 	False	 0 
+ 88 	 0 	False	 0 
+ 89 	 0 	False	 0 
+ 90 	 0 	False	 0 
+ 91 	 0 	False	 0 
+ 92 	 0 	False	 0 
+ 93 	 0 	False	 0 
+ 94 	 0 	False	 0 
+ 95 	 0 	False	 0 
+ 96 	 0 	False	 0 
+ 97 	 0 	False	 0 
+ 98 	 0 	False	 0 
+ 99 	 0 	False	 0 
+ 100 	 0 	False	 0 
+ 101 	 0 	False	 0 
+ 102 	 0 	False	 0 
+ 103 	 0 	False	 0 
+ 104 	 0 	False	 0 
+ 105 	 0 	False	 0 
+ 106 	 0 	False	 0 
+ 107 	 0 	False	 0 
+ 108 	 0 	False	 0 
+ 109 	 0 	False	 0 
+ 110 	 0 	False	 0 
+ 111 	 0 	False	 0 
+ 112 	 0 	False	 0 
+ 113 	 0 	False	 0 
+ 114 	 0 	False	 0 
+ 115 	 0 	False	 0 
+ 116 	 0 	False	 0 
+ 117 	 0 	False	 0 
+ 118 	 0 	False	 0 
+ 119 	 0 	False	 0 
+ 120 	 0 	False	 0 
+ 121 	 0 	False	 0 
+ 122 	 0 	False	 0 
+ 123 	 0 	False	 0 
+ 124 	 0 	False	 0 
+ 125 	 0 	False	 0 
+ 126 	 0 	False	 0 
+ 127 	 0 	False	 0 
+ 128 	 0 	False	 0 
+ 129 	 0 	False	 0 
+ 130 	 0 	False	 0 
+ 131 	 0 	False	 0 
+ 132 	 0 	False	 0 
+ 133 	 0 	False	 0 
+ 134 	 0 	False	 0 
+ 135 	 0 	False	 0 
+ 136 	 0 	False	 0 
+ 137 	 0 	False	 0 
+ 138 	 0 	False	 0 
+ 139 	 0 	False	 0 
+ 140 	 0 	False	 0 
+ 141 	 0 	False	 0 
+ 142 	 0 	False	 0 
+ 143 	 0 	False	 0 
+ 144 	 0 	False	 0 
+ 145 	 0 	False	 0 
+ 146 	 0 	False	 0 
+ 147 	 0 	False	 0 
+ 148 	 0 	False	 0 
+ 149 	 0 	False	 0 
+ 150 	 0 	False	 0 
+ 151 	 0 	False	 0 
+ 152 	 0 	False	 0 
+ 153 	 0 	False	 0 
+ 154 	 0 	False	 0 
+ 155 	 0 	False	 0 
+ 156 	 0 	False	 0 
+ 157 	 0 	False	 0 
+ 158 	 0 	False	 0 
+ 159 	 0 	False	 0 
+ 160 	 0 	False	 0 
+ 161 	 0 	False	 0 
+ 162 	 0 	False	 0 
+ 163 	 0 	False	 0 
+ 164 	 0 	False	 0 
+ 165 	 0 	False	 0 
+ 166 	 0 	False	 0 
+ 167 	 0 	False	 0 
+ 168 	 0 	False	 0 
+ 169 	 0 	False	 0 
+ 170 	 0 	False	 0 
+ 171 	 0 	False	 0 
+ 172 	 0 	False	 0 
+ 173 	 0 	False	 0 
+ 174 	 0 	False	 0 
+ 175 	 0 	False	 0 
+ 176 	 0 	False	 0 
+ 177 	 0 	False	 0 
+ 178 	 0 	False	 0 
+ 179 	 0 	False	 0 
+ 180 	 0 	False	 0 
+ 181 	 0 	False	 0 
+ 182 	 0 	False	 0 
+ 183 	 0 	False	 0 
+ 184 	 0 	False	 0 
+ 185 	 0 	False	 0 
+ 186 	 0 	False	 0 
+ 187 	 0 	False	 0 
+ 188 	 0 	False	 0 
+ 189 	 0 	False	 0 
+ 190 	 0 	False	 0 
+ 191 	 0 	False	 0 
+ 192 	 0 	False	 0 
+ 193 	 0 	False	 0 
+ 194 	 0 	False	 0 
+ 195 	 0 	False	 0 
+ 196 	 0 	False	 0 
+ 197 	 0 	False	 0 
+ 198 	 0 	False	 0 
+ 199 	 0 	False	 0 
+ 200 	 0 	False	 0 
+ 201 	 0 	False	 0 
+ 202 	 0 	False	 0 
+ 203 	 0 	False	 0 
+ 204 	 0 	False	 0 
+ 205 	 0 	False	 0 
+ 206 	 0 	False	 0 
+ 207 	 0 	False	 0 
+ 208 	 0 	False	 0 
+ 209 	 0 	False	 0 
+ 210 	 0 	False	 0 
+ 211 	 0 	False	 0 
+ 212 	 0 	False	 0 
+ 213 	 0 	False	 0 
+ 214 	 0 	False	 0 
+ 215 	 0 	False	 0 
+ 216 	 0 	False	 0 
+ 217 	 0 	False	 0 
+ 218 	 0 	False	 0 
+ 219 	 0 	False	 0 
+ 220 	 0 	False	 0 
+ 221 	 0 	False	 0 
+ 222 	 0 	False	 0 
+ 223 	 0 	False	 0 
+ 224 	 0 	False	 0 
+ 225 	 0 	False	 0 
+SART experiment conducted on:	18/12/2002 17:57:54
+Participant name: 	
+Participant DOB: 	
+Response locking:	True
+Random order:	True
+SART experiment conducted on:	18/12/2002 17:59:06
+Participant name: 	
+Participant DOB: 	
+Response locking:	True
+Random order:	True
+*RESULTS SUMMARY
+Errors of commission (number of 3s pressed for)	0
+Errors of omission (missed presses for non-3s)	202
+  - of which 0 were anticipatory responses.
+Mean correct RT 36.8901857638331
+Standard deviation of RT  122.196909754323 
+ 1 	 0 	True	 578.2 
+ 2 	 0 	True	 274.5 
+ 3 	 0 	True	 254.4 
+ 4 	 0 	True	 275.2 
+ 5 	 0 	True	 261.1 
+ 6 	 0 	True	 244 
+ 7 	 0 	True	 264.2 
+ 8 	 0 	True	 277.8 
+ 9 	 0 	False	 0 
+ 10 	 0 	True	 562.4 
+ 11 	 0 	True	 658.8 
+ 12 	 0 	True	 549 
+ 13 	 0 	True	 330.5 
+ 14 	 0 	True	 269.5 
+ 15 	 0 	True	 254.4 
+ 16 	 0 	True	 298.6 
+ 17 	 0 	True	 365.9 
+ 18 	 0 	True	 370.4 
+ 19 	 0 	True	 366 
+ 20 	 0 	True	 357.7 
+ 21 	 0 	True	 412.2 
+ 22 	 0 	True	 482.3 
+ 23 	 1 	False	 0 
+ 24 	 0 	True	 307.2 
+ 25 	 0 	True	 286 
+ 26 	 0 	False	 0 
+ 27 	 0 	False	 0 
+ 28 	 0 	False	 0 
+ 29 	 0 	False	 0 
+ 30 	 0 	False	 0 
+ 31 	 0 	False	 0 
+ 32 	 0 	False	 0 
+ 33 	 0 	False	 0 
+ 34 	 0 	False	 0 
+ 35 	 0 	False	 0 
+ 36 	 0 	False	 0 
+ 37 	 0 	False	 0 
+ 38 	 0 	False	 0 
+ 39 	 0 	False	 0 
+ 40 	 0 	False	 0 
+ 41 	 0 	False	 0 
+ 42 	 0 	False	 0 
+ 43 	 0 	False	 0 
+ 44 	 0 	False	 0 
+ 45 	 0 	False	 0 
+ 46 	 0 	False	 0 
+ 47 	 0 	False	 0 
+ 48 	 0 	False	 0 
+ 49 	 0 	False	 0 
+ 50 	 0 	False	 0 
+ 51 	 0 	False	 0 
+ 52 	 0 	False	 0 
+ 53 	 0 	False	 0 
+ 54 	 0 	False	 0 
+ 55 	 0 	False	 0 
+ 56 	 0 	False	 0 
+ 57 	 0 	False	 0 
+ 58 	 0 	False	 0 
+ 59 	 0 	False	 0 
+ 60 	 0 	False	 0 
+ 61 	 0 	False	 0 
+ 62 	 0 	False	 0 
+ 63 	 0 	False	 0 
+ 64 	 0 	False	 0 
+ 65 	 0 	False	 0 
+ 66 	 0 	False	 0 
+ 67 	 0 	False	 0 
+ 68 	 0 	False	 0 
+ 69 	 0 	False	 0 
+ 70 	 0 	False	 0 
+ 71 	 0 	False	 0 
+ 72 	 0 	False	 0 
+ 73 	 0 	False	 0 
+ 74 	 0 	False	 0 
+ 75 	 0 	False	 0 
+ 76 	 0 	False	 0 
+ 77 	 0 	False	 0 
+ 78 	 0 	False	 0 
+ 79 	 0 	False	 0 
+ 80 	 0 	False	 0 
+ 81 	 0 	False	 0 
+ 82 	 0 	False	 0 
+ 83 	 0 	False	 0 
+ 84 	 0 	False	 0 
+ 85 	 0 	False	 0 
+ 86 	 0 	False	 0 
+ 87 	 0 	False	 0 
+ 88 	 0 	False	 0 
+ 89 	 0 	False	 0 
+ 90 	 0 	False	 0 
+ 91 	 0 	False	 0 
+ 92 	 0 	False	 0 
+ 93 	 0 	False	 0 
+ 94 	 0 	False	 0 
+ 95 	 0 	False	 0 
+ 96 	 0 	False	 0 
+ 97 	 0 	False	 0 
+ 98 	 0 	False	 0 
+ 99 	 0 	False	 0 
+ 100 	 0 	False	 0 
+ 101 	 0 	False	 0 
+ 102 	 0 	False	 0 
+ 103 	 0 	False	 0 
+ 104 	 0 	False	 0 
+ 105 	 0 	False	 0 
+ 106 	 0 	False	 0 
+ 107 	 0 	False	 0 
+ 108 	 0 	False	 0 
+ 109 	 0 	False	 0 
+ 110 	 0 	False	 0 
+ 111 	 0 	False	 0 
+ 112 	 0 	False	 0 
+ 113 	 0 	False	 0 
+ 114 	 0 	False	 0 
+ 115 	 0 	False	 0 
+ 116 	 0 	False	 0 
+ 117 	 0 	False	 0 
+ 118 	 0 	False	 0 
+ 119 	 0 	False	 0 
+ 120 	 0 	False	 0 
+ 121 	 0 	False	 0 
+ 122 	 0 	False	 0 
+ 123 	 0 	False	 0 
+ 124 	 0 	False	 0 
+ 125 	 0 	False	 0 
+ 126 	 0 	False	 0 
+ 127 	 0 	False	 0 
+ 128 	 0 	False	 0 
+ 129 	 0 	False	 0 
+ 130 	 0 	False	 0 
+ 131 	 0 	False	 0 
+ 132 	 0 	False	 0 
+ 133 	 0 	False	 0 
+ 134 	 0 	False	 0 
+ 135 	 0 	False	 0 
+ 136 	 0 	False	 0 
+ 137 	 0 	False	 0 
+ 138 	 0 	False	 0 
+ 139 	 0 	False	 0 
+ 140 	 0 	False	 0 
+ 141 	 0 	False	 0 
+ 142 	 0 	False	 0 
+ 143 	 0 	False	 0 
+ 144 	 0 	False	 0 
+ 145 	 0 	False	 0 
+ 146 	 0 	False	 0 
+ 147 	 0 	False	 0 
+ 148 	 0 	False	 0 
+ 149 	 0 	False	 0 
+ 150 	 0 	False	 0 
+ 151 	 0 	False	 0 
+ 152 	 0 	False	 0 
+ 153 	 0 	False	 0 
+ 154 	 0 	False	 0 
+ 155 	 0 	False	 0 
+ 156 	 0 	False	 0 
+ 157 	 0 	False	 0 
+ 158 	 0 	False	 0 
+ 159 	 0 	False	 0 
+ 160 	 0 	False	 0 
+ 161 	 0 	False	 0 
+ 162 	 0 	False	 0 
+ 163 	 0 	False	 0 
+ 164 	 0 	False	 0 
+ 165 	 0 	False	 0 
+ 166 	 0 	False	 0 
+ 167 	 0 	False	 0 
+ 168 	 0 	False	 0 
+ 169 	 0 	False	 0 
+ 170 	 0 	False	 0 
+ 171 	 0 	False	 0 
+ 172 	 0 	False	 0 
+ 173 	 0 	False	 0 
+ 174 	 0 	False	 0 
+ 175 	 0 	False	 0 
+ 176 	 0 	False	 0 
+ 177 	 0 	False	 0 
+ 178 	 0 	False	 0 
+ 179 	 0 	False	 0 
+ 180 	 0 	False	 0 
+ 181 	 0 	False	 0 
+ 182 	 0 	False	 0 
+ 183 	 0 	False	 0 
+ 184 	 0 	False	 0 
+ 185 	 0 	False	 0 
+ 186 	 0 	False	 0 
+ 187 	 0 	False	 0 
+ 188 	 0 	False	 0 
+ 189 	 0 	False	 0 
+ 190 	 0 	False	 0 
+ 191 	 0 	False	 0 
+ 192 	 0 	False	 0 
+ 193 	 0 	False	 0 
+ 194 	 0 	False	 0 
+ 195 	 0 	False	 0 
+ 196 	 0 	False	 0 
+ 197 	 0 	False	 0 
+ 198 	 0 	False	 0 
+ 199 	 0 	False	 0 
+ 200 	 0 	False	 0 
+ 201 	 0 	False	 0 
+ 202 	 0 	False	 0 
+ 203 	 0 	False	 0 
+ 204 	 0 	False	 0 
+ 205 	 0 	False	 0 
+ 206 	 0 	False	 0 
+ 207 	 0 	False	 0 
+ 208 	 0 	False	 0 
+ 209 	 0 	False	 0 
+ 210 	 0 	False	 0 
+ 211 	 0 	False	 0 
+ 212 	 0 	False	 0 
+ 213 	 0 	False	 0 
+ 214 	 0 	False	 0 
+ 215 	 0 	False	 0 
+ 216 	 0 	False	 0 
+ 217 	 0 	False	 0 
+ 218 	 0 	False	 0 
+ 219 	 0 	False	 0 
+ 220 	 0 	False	 0 
+ 221 	 0 	False	 0 
+ 222 	 0 	False	 0 
+ 223 	 0 	False	 0 
+ 224 	 0 	False	 0 
+ 225 	 0 	False	 0 
+SART experiment conducted on:	18/12/2002 18:01:52
+Participant name: 	
+Participant DOB: 	
+Response locking:	True
+Random order:	True
+*RESULTS SUMMARY
+Errors of commission (number of 3s pressed for)	1
+Errors of omission (missed presses for non-3s)	200
+  - of which 0 were anticipatory responses.
+Mean correct RT 284.362604744458
+Standard deviation of RT  79.5122544704234 
+ 1 	 0 	True	 650 
+ 2 	 0 	True	 311.2 
+ 3 	 0 	True	 286.1 
+ 4 	 0 	True	 266.6 
+ 5 	 0 	True	 284.2 
+ 6 	 0 	True	 244.8 
+ 7 	 0 	True	 262.7 
+ 8 	 0 	True	 263.2 
+ 9 	 0 	True	 293 
+ 10 	 0 	True	 299.6 
+ 11 	 0 	True	 292.1 
+ 12 	 0 	True	 310.3 
+ 13 	 0 	True	 208.3 
+ 14 	 0 	True	 246.4 
+ 15 	 0 	True	 258.8 
+ 16 	 0 	True	 245.4 
+ 17 	 0 	True	 274.8 
+ 18 	 0 	True	 256.5 
+ 19 	 0 	True	 268.1 
+ 20 	 0 	True	 274.8 
+ 21 	 0 	True	 275.7 
+ 22 	 0 	True	 265.1 
+ 23 	 1 	True	 253.1 
+ 24 	 0 	True	 250 
+ 25 	 0 	True	 268.5 
+ 26 	 0 	False	 0 
+ 27 	 0 	False	 0 
+ 28 	 0 	False	 0 
+ 29 	 0 	False	 0 
+ 30 	 0 	False	 0 
+ 31 	 0 	False	 0 
+ 32 	 0 	False	 0 
+ 33 	 0 	False	 0 
+ 34 	 0 	False	 0 
+ 35 	 0 	False	 0 
+ 36 	 0 	False	 0 
+ 37 	 0 	False	 0 
+ 38 	 0 	False	 0 
+ 39 	 0 	False	 0 
+ 40 	 0 	False	 0 
+ 41 	 0 	False	 0 
+ 42 	 0 	False	 0 
+ 43 	 0 	False	 0 
+ 44 	 0 	False	 0 
+ 45 	 0 	False	 0 
+ 46 	 0 	False	 0 
+ 47 	 0 	False	 0 
+ 48 	 0 	False	 0 
+ 49 	 0 	False	 0 
+ 50 	 0 	False	 0 
+ 51 	 0 	False	 0 
+ 52 	 0 	False	 0 
+ 53 	 0 	False	 0 
+ 54 	 0 	False	 0 
+ 55 	 0 	False	 0 
+ 56 	 0 	False	 0 
+ 57 	 0 	False	 0 
+ 58 	 0 	False	 0 
+ 59 	 0 	False	 0 
+ 60 	 0 	False	 0 
+ 61 	 0 	False	 0 
+ 62 	 0 	False	 0 
+ 63 	 0 	False	 0 
+ 64 	 0 	False	 0 
+ 65 	 0 	False	 0 
+ 66 	 0 	False	 0 
+ 67 	 0 	False	 0 
+ 68 	 0 	False	 0 
+ 69 	 0 	False	 0 
+ 70 	 0 	False	 0 
+ 71 	 0 	False	 0 
+ 72 	 0 	False	 0 
+ 73 	 0 	False	 0 
+ 74 	 0 	False	 0 
+ 75 	 0 	False	 0 
+ 76 	 0 	False	 0 
+ 77 	 0 	False	 0 
+ 78 	 0 	False	 0 
+ 79 	 0 	False	 0 
+ 80 	 0 	False	 0 
+ 81 	 0 	False	 0 
+ 82 	 0 	False	 0 
+ 83 	 0 	False	 0 
+ 84 	 0 	False	 0 
+ 85 	 0 	False	 0 
+ 86 	 0 	False	 0 
+ 87 	 0 	False	 0 
+ 88 	 0 	False	 0 
+ 89 	 0 	False	 0 
+ 90 	 0 	False	 0 
+ 91 	 0 	False	 0 
+ 92 	 0 	False	 0 
+ 93 	 0 	False	 0 
+ 94 	 0 	False	 0 
+ 95 	 0 	False	 0 
+ 96 	 0 	False	 0 
+ 97 	 0 	False	 0 
+ 98 	 0 	False	 0 
+ 99 	 0 	False	 0 
+ 100 	 0 	False	 0 
+ 101 	 0 	False	 0 
+ 102 	 0 	False	 0 
+ 103 	 0 	False	 0 
+ 104 	 0 	False	 0 
+ 105 	 0 	False	 0 
+ 106 	 0 	False	 0 
+ 107 	 0 	False	 0 
+ 108 	 0 	False	 0 
+ 109 	 0 	False	 0 
+ 110 	 0 	False	 0 
+ 111 	 0 	False	 0 
+ 112 	 0 	False	 0 
+ 113 	 0 	False	 0 
+ 114 	 0 	False	 0 
+ 115 	 0 	False	 0 
+ 116 	 0 	False	 0 
+ 117 	 0 	False	 0 
+ 118 	 0 	False	 0 
+ 119 	 0 	False	 0 
+ 120 	 0 	False	 0 
+ 121 	 0 	False	 0 
+ 122 	 0 	False	 0 
+ 123 	 0 	False	 0 
+ 124 	 0 	False	 0 
+ 125 	 0 	False	 0 
+ 126 	 0 	False	 0 
+ 127 	 0 	False	 0 
+ 128 	 0 	False	 0 
+ 129 	 0 	False	 0 
+ 130 	 0 	False	 0 
+ 131 	 0 	False	 0 
+ 132 	 0 	False	 0 
+ 133 	 0 	False	 0 
+ 134 	 0 	False	 0 
+ 135 	 0 	False	 0 
+ 136 	 0 	False	 0 
+ 137 	 0 	False	 0 
+ 138 	 0 	False	 0 
+ 139 	 0 	False	 0 
+ 140 	 0 	False	 0 
+ 141 	 0 	False	 0 
+ 142 	 0 	False	 0 
+ 143 	 0 	False	 0 
+ 144 	 0 	False	 0 
+ 145 	 0 	False	 0 
+ 146 	 0 	False	 0 
+ 147 	 0 	False	 0 
+ 148 	 0 	False	 0 
+ 149 	 0 	False	 0 
+ 150 	 0 	False	 0 
+ 151 	 0 	False	 0 
+ 152 	 0 	False	 0 
+ 153 	 0 	False	 0 
+ 154 	 0 	False	 0 
+ 155 	 0 	False	 0 
+ 156 	 0 	False	 0 
+ 157 	 0 	False	 0 
+ 158 	 0 	False	 0 
+ 159 	 0 	False	 0 
+ 160 	 0 	False	 0 
+ 161 	 0 	False	 0 
+ 162 	 0 	False	 0 
+ 163 	 0 	False	 0 
+ 164 	 0 	False	 0 
+ 165 	 0 	False	 0 
+ 166 	 0 	False	 0 
+ 167 	 0 	False	 0 
+ 168 	 0 	False	 0 
+ 169 	 0 	False	 0 
+ 170 	 0 	False	 0 
+ 171 	 0 	False	 0 
+ 172 	 0 	False	 0 
+ 173 	 0 	False	 0 
+ 174 	 0 	False	 0 
+ 175 	 0 	False	 0 
+ 176 	 0 	False	 0 
+ 177 	 0 	False	 0 
+ 178 	 0 	False	 0 
+ 179 	 0 	False	 0 
+ 180 	 0 	False	 0 
+ 181 	 0 	False	 0 
+ 182 	 0 	False	 0 
+ 183 	 0 	False	 0 
+ 184 	 0 	False	 0 
+ 185 	 0 	False	 0 
+ 186 	 0 	False	 0 
+ 187 	 0 	False	 0 
+ 188 	 0 	False	 0 
+ 189 	 0 	False	 0 
+ 190 	 0 	False	 0 
+ 191 	 0 	False	 0 
+ 192 	 0 	False	 0 
+ 193 	 0 	False	 0 
+ 194 	 0 	False	 0 
+ 195 	 0 	False	 0 
+ 196 	 0 	False	 0 
+ 197 	 0 	False	 0 
+ 198 	 0 	False	 0 
+ 199 	 0 	False	 0 
+ 200 	 0 	False	 0 
+ 201 	 0 	False	 0 
+ 202 	 0 	False	 0 
+ 203 	 0 	False	 0 
+ 204 	 0 	False	 0 
+ 205 	 0 	False	 0 
+ 206 	 0 	False	 0 
+ 207 	 0 	False	 0 
+ 208 	 0 	False	 0 
+ 209 	 0 	False	 0 
+ 210 	 0 	False	 0 
+ 211 	 0 	False	 0 
+ 212 	 0 	False	 0 
+ 213 	 0 	False	 0 
+ 214 	 0 	False	 0 
+ 215 	 0 	False	 0 
+ 216 	 0 	False	 0 
+ 217 	 0 	False	 0 
+ 218 	 0 	False	 0 
+ 219 	 0 	False	 0 
+ 220 	 0 	False	 0 
+ 221 	 0 	False	 0 
+ 222 	 0 	False	 0 
+ 223 	 0 	False	 0 
+ 224 	 0 	False	 0 
+ 225 	 0 	False	 0 
+** SART experiment conducted on:	18/12/2002 18:05:19
+Participant name: 	
+Participant DOB: 	
+Response locking:	True
+Random order:	True
+** SART experiment conducted on:	18/12/2002 18:11:08
+Participant name: 	
+Participant DOB: 	
+Response locking:	True
+Random order:	True
+** SART experiment conducted on:	18/12/2002 18:11:28
+Participant name: 	
+Participant DOB: 	
+Response locking:	True
+Random order:	True
+** SART experiment conducted on:	18/12/2002 18:12:31
+Participant name: 	
+Participant DOB: 	
+Response locking:	True
+Random order:	True
+** SART experiment conducted on:	18/12/2002 18:15:13
+Participant name: 	
+Participant DOB: 	
+Response locking:	True
+Random order:	True
+** SART experiment conducted on:	18/12/2002 18:19:31
+Participant name: 	
+Participant DOB: 	
+Response locking:	True
+Random order:	True
+** SART experiment conducted on:	18/12/2002 18:21:41
+Participant name: 	
+Participant DOB: 	
+Response locking:	True
+Random order:	True
+** SART experiment conducted on:	18/12/2002 18:22:37
+Participant name: 	
+Participant DOB: 	
+Response locking:	True
+Random order:	True
+** SART experiment conducted on:	18/12/2002 18:23:52
+Participant name: 	
+Participant DOB: 	
+Response locking:	True
+Random order:	True
+** SART experiment conducted on:	18/12/2002 18:26:21
+Participant name: 	
+Participant DOB: 	
+Response locking:	True
+Random order:	True
+** SART experiment conducted on:	18/12/2002 18:27:54
+Participant name: 	
+Participant DOB: 	
+Response locking:	True
+Random order:	True
+** SART experiment conducted on:	18/12/2002 18:28:58
+Participant name: 	
+Participant DOB: 	
+Response locking:	True
+Random order:	True
+** SART experiment conducted on:	18/12/2002 18:29:44
+Participant name: 	
+Participant DOB: 	
+Response locking:	True
+Random order:	True
+** SART experiment conducted on:	18/12/2002 18:31:40
+Participant name: 	
+Participant DOB: 	
+Response locking:	True
+Random order:	True
+** SART experiment conducted on:	18/12/2002 18:32:57
+Participant name: 	
+Participant DOB: 	
+Response locking:	True
+Random order:	True
+** SART experiment conducted on:	18/12/2002 18:34:06
+Participant name: 	
+Participant DOB: 	
+Response locking:	True
+Random order:	True
+
+* RESULTS SUMMARY
+Errors of commission (number of 3s pressed for)	1
+Errors of omission (missed presses for non-3s)	200
+  - of which 0 were anticipatory responses.
+Mean correct RT 265.564874865381
+Standard deviation of RT  89.213237075055 
+
+* RAW DATA
+Trial	Target?	Response?	RT (ms)
+ 1 	 0 	True	 621.4 
+ 2 	 0 	True	 468.6 
+ 3 	 0 	True	 282.3 
+ 4 	 0 	True	 224.3 
+ 5 	 0 	True	 263.6 
+ 6 	 0 	True	 263.1 
+ 7 	 0 	True	 276.8 
+ 8 	 0 	True	 270.3 
+ 9 	 0 	True	 235.2 
+ 10 	 0 	True	 237.3 
+ 11 	 0 	True	 244.9 
+ 12 	 0 	True	 257.5 
+ 13 	 0 	True	 254.3 
+ 14 	 0 	True	 260.8 
+ 15 	 0 	True	 225.2 
+ 16 	 0 	True	 232.5 
+ 17 	 0 	True	 225.6 
+ 18 	 0 	True	 235.5 
+ 19 	 0 	True	 237.2 
+ 20 	 0 	True	 233.4 
+ 21 	 1 	True	 209.3 
+ 22 	 0 	True	 222.5 
+ 23 	 0 	True	 210.2 
+ 24 	 0 	True	 224.1 
+ 25 	 0 	True	 223.3 
+ 26 	 0 	False	 0 
+ 27 	 0 	False	 0 
+ 28 	 0 	False	 0 
+ 29 	 0 	False	 0 
+ 30 	 0 	False	 0 
+ 31 	 0 	False	 0 
+ 32 	 0 	False	 0 
+ 33 	 0 	False	 0 
+ 34 	 0 	False	 0 
+ 35 	 0 	False	 0 
+ 36 	 0 	False	 0 
+ 37 	 0 	False	 0 
+ 38 	 0 	False	 0 
+ 39 	 0 	False	 0 
+ 40 	 0 	False	 0 
+ 41 	 0 	False	 0 
+ 42 	 0 	False	 0 
+ 43 	 0 	False	 0 
+ 44 	 0 	False	 0 
+ 45 	 0 	False	 0 
+ 46 	 0 	False	 0 
+ 47 	 0 	False	 0 
+ 48 	 0 	False	 0 
+ 49 	 0 	False	 0 
+ 50 	 0 	False	 0 
+ 51 	 0 	False	 0 
+ 52 	 0 	False	 0 
+ 53 	 0 	False	 0 
+ 54 	 0 	False	 0 
+ 55 	 0 	False	 0 
+ 56 	 0 	False	 0 
+ 57 	 0 	False	 0 
+ 58 	 0 	False	 0 
+ 59 	 0 	False	 0 
+ 60 	 0 	False	 0 
+ 61 	 0 	False	 0 
+ 62 	 0 	False	 0 
+ 63 	 0 	False	 0 
+ 64 	 0 	False	 0 
+ 65 	 0 	False	 0 
+ 66 	 0 	False	 0 
+ 67 	 0 	False	 0 
+ 68 	 0 	False	 0 
+ 69 	 0 	False	 0 
+ 70 	 0 	False	 0 
+ 71 	 0 	False	 0 
+ 72 	 0 	False	 0 
+ 73 	 0 	False	 0 
+ 74 	 0 	False	 0 
+ 75 	 0 	False	 0 
+ 76 	 0 	False	 0 
+ 77 	 0 	False	 0 
+ 78 	 0 	False	 0 
+ 79 	 0 	False	 0 
+ 80 	 0 	False	 0 
+ 81 	 0 	False	 0 
+ 82 	 0 	False	 0 
+ 83 	 0 	False	 0 
+ 84 	 0 	False	 0 
+ 85 	 0 	False	 0 
+ 86 	 0 	False	 0 
+ 87 	 0 	False	 0 
+ 88 	 0 	False	 0 
+ 89 	 0 	False	 0 
+ 90 	 0 	False	 0 
+ 91 	 0 	False	 0 
+ 92 	 0 	False	 0 
+ 93 	 0 	False	 0 
+ 94 	 0 	False	 0 
+ 95 	 0 	False	 0 
+ 96 	 0 	False	 0 
+ 97 	 0 	False	 0 
+ 98 	 0 	False	 0 
+ 99 	 0 	False	 0 
+ 100 	 0 	False	 0 
+ 101 	 0 	False	 0 
+ 102 	 0 	False	 0 
+ 103 	 0 	False	 0 
+ 104 	 0 	False	 0 
+ 105 	 0 	False	 0 
+ 106 	 0 	False	 0 
+ 107 	 0 	False	 0 
+ 108 	 0 	False	 0 
+ 109 	 0 	False	 0 
+ 110 	 0 	False	 0 
+ 111 	 0 	False	 0 
+ 112 	 0 	False	 0 
+ 113 	 0 	False	 0 
+ 114 	 0 	False	 0 
+ 115 	 0 	False	 0 
+ 116 	 0 	False	 0 
+ 117 	 0 	False	 0 
+ 118 	 0 	False	 0 
+ 119 	 0 	False	 0 
+ 120 	 0 	False	 0 
+ 121 	 0 	False	 0 
+ 122 	 0 	False	 0 
+ 123 	 0 	False	 0 
+ 124 	 0 	False	 0 
+ 125 	 0 	False	 0 
+ 126 	 0 	False	 0 
+ 127 	 0 	False	 0 
+ 128 	 0 	False	 0 
+ 129 	 0 	False	 0 
+ 130 	 0 	False	 0 
+ 131 	 0 	False	 0 
+ 132 	 0 	False	 0 
+ 133 	 0 	False	 0 
+ 134 	 0 	False	 0 
+ 135 	 0 	False	 0 
+ 136 	 0 	False	 0 
+ 137 	 0 	False	 0 
+ 138 	 0 	False	 0 
+ 139 	 0 	False	 0 
+ 140 	 0 	False	 0 
+ 141 	 0 	False	 0 
+ 142 	 0 	False	 0 
+ 143 	 0 	False	 0 
+ 144 	 0 	False	 0 
+ 145 	 0 	False	 0 
+ 146 	 0 	False	 0 
+ 147 	 0 	False	 0 
+ 148 	 0 	False	 0 
+ 149 	 0 	False	 0 
+ 150 	 0 	False	 0 
+ 151 	 0 	False	 0 
+ 152 	 0 	False	 0 
+ 153 	 0 	False	 0 
+ 154 	 0 	False	 0 
+ 155 	 0 	False	 0 
+ 156 	 0 	False	 0 
+ 157 	 0 	False	 0 
+ 158 	 0 	False	 0 
+ 159 	 0 	False	 0 
+ 160 	 0 	False	 0 
+ 161 	 0 	False	 0 
+ 162 	 0 	False	 0 
+ 163 	 0 	False	 0 
+ 164 	 0 	False	 0 
+ 165 	 0 	False	 0 
+ 166 	 0 	False	 0 
+ 167 	 0 	False	 0 
+ 168 	 0 	False	 0 
+ 169 	 0 	False	 0 
+ 170 	 0 	False	 0 
+ 171 	 0 	False	 0 
+ 172 	 0 	False	 0 
+ 173 	 0 	False	 0 
+ 174 	 0 	False	 0 
+ 175 	 0 	False	 0 
+ 176 	 0 	False	 0 
+ 177 	 0 	False	 0 
+ 178 	 0 	False	 0 
+ 179 	 0 	False	 0 
+ 180 	 0 	False	 0 
+ 181 	 0 	False	 0 
+ 182 	 0 	False	 0 
+ 183 	 0 	False	 0 
+ 184 	 0 	False	 0 
+ 185 	 0 	False	 0 
+ 186 	 0 	False	 0 
+ 187 	 0 	False	 0 
+ 188 	 0 	False	 0 
+ 189 	 0 	False	 0 
+ 190 	 0 	False	 0 
+ 191 	 0 	False	 0 
+ 192 	 0 	False	 0 
+ 193 	 0 	False	 0 
+ 194 	 0 	False	 0 
+ 195 	 0 	False	 0 
+ 196 	 0 	False	 0 
+ 197 	 0 	False	 0 
+ 198 	 0 	False	 0 
+ 199 	 0 	False	 0 
+ 200 	 0 	False	 0 
+ 201 	 0 	False	 0 
+ 202 	 0 	False	 0 
+ 203 	 0 	False	 0 
+ 204 	 0 	False	 0 
+ 205 	 0 	False	 0 
+ 206 	 0 	False	 0 
+ 207 	 0 	False	 0 
+ 208 	 0 	False	 0 
+ 209 	 0 	False	 0 
+ 210 	 0 	False	 0 
+ 211 	 0 	False	 0 
+ 212 	 0 	False	 0 
+ 213 	 0 	False	 0 
+ 214 	 0 	False	 0 
+ 215 	 0 	False	 0 
+ 216 	 0 	False	 0 
+ 217 	 0 	False	 0 
+ 218 	 0 	False	 0 
+ 219 	 0 	False	 0 
+ 220 	 0 	False	 0 
+ 221 	 0 	False	 0 
+ 222 	 0 	False	 0 
+ 223 	 0 	False	 0 
+ 224 	 0 	False	 0 
+ 225 	 0 	False	 0 
+** SART experiment conducted on:	18/12/2002 18:57:03
+Participant name: 	
+Participant DOB: 	
+Response locking:	True
+Random order:	True
+
+* RESULTS SUMMARY
+Errors of commission (number of 3s pressed for)	1
+Errors of omission (missed presses for non-3s)	200
+  - of which 2 were anticipatory responses.
+Mean correct RT 260.068382506958
+Standard deviation of RT  93.9777777898009 
+
+* RAW DATA
+Trial	Target?	Response?	RT (ms)
+ 1 	 0 	True	 539.5 
+ 2 	 0 	True	 307.1 
+ 3 	 0 	True	 220.3 
+ 4 	 0 	True	 307.5 
+ 5 	 0 	True	-636 
+ 6 	 0 	True	 438.5 
+ 7 	 0 	True	-519.1 
+ 8 	 0 	True	 363 
+ 9 	 0 	True	 293.2 
+ 10 	 0 	True	 265.7 
+ 11 	 0 	True	 287 
+ 12 	 0 	True	 239.6 
+ 13 	 0 	True	 249.2 
+ 14 	 0 	True	 239.1 
+ 15 	 0 	True	 214.8 
+ 16 	 0 	True	 227.3 
+ 17 	 0 	True	 274.4 
+ 18 	 0 	True	 275.5 
+ 19 	 0 	True	 190.4 
+ 20 	 0 	True	 128.5 
+ 21 	 0 	True	 248.7 
+ 22 	 0 	True	 229.5 
+ 23 	 1 	True	 139 
+ 24 	 0 	True	 154.2 
+ 25 	 0 	True	 149.3 
+ 26 	 0 	False	 0 
+ 27 	 0 	False	 0 
+ 28 	 0 	False	 0 
+ 29 	 0 	False	 0 
+ 30 	 0 	False	 0 
+ 31 	 0 	False	 0 
+ 32 	 0 	False	 0 
+ 33 	 0 	False	 0 
+ 34 	 0 	False	 0 
+ 35 	 0 	False	 0 
+ 36 	 0 	False	 0 
+ 37 	 0 	False	 0 
+ 38 	 0 	False	 0 
+ 39 	 0 	False	 0 
+ 40 	 0 	False	 0 
+ 41 	 0 	False	 0 
+ 42 	 0 	False	 0 
+ 43 	 0 	False	 0 
+ 44 	 0 	False	 0 
+ 45 	 0 	False	 0 
+ 46 	 0 	False	 0 
+ 47 	 0 	False	 0 
+ 48 	 0 	False	 0 
+ 49 	 0 	False	 0 
+ 50 	 0 	False	 0 
+ 51 	 0 	False	 0 
+ 52 	 0 	False	 0 
+ 53 	 0 	False	 0 
+ 54 	 0 	False	 0 
+ 55 	 0 	False	 0 
+ 56 	 0 	False	 0 
+ 57 	 0 	False	 0 
+ 58 	 0 	False	 0 
+ 59 	 0 	False	 0 
+ 60 	 0 	False	 0 
+ 61 	 0 	False	 0 
+ 62 	 0 	False	 0 
+ 63 	 0 	False	 0 
+ 64 	 0 	False	 0 
+ 65 	 0 	False	 0 
+ 66 	 0 	False	 0 
+ 67 	 0 	False	 0 
+ 68 	 0 	False	 0 
+ 69 	 0 	False	 0 
+ 70 	 0 	False	 0 
+ 71 	 0 	False	 0 
+ 72 	 0 	False	 0 
+ 73 	 0 	False	 0 
+ 74 	 0 	False	 0 
+ 75 	 0 	False	 0 
+ 76 	 0 	False	 0 
+ 77 	 0 	False	 0 
+ 78 	 0 	False	 0 
+ 79 	 0 	False	 0 
+ 80 	 0 	False	 0 
+ 81 	 0 	False	 0 
+ 82 	 0 	False	 0 
+ 83 	 0 	False	 0 
+ 84 	 0 	False	 0 
+ 85 	 0 	False	 0 
+ 86 	 0 	False	 0 
+ 87 	 0 	False	 0 
+ 88 	 0 	False	 0 
+ 89 	 0 	False	 0 
+ 90 	 0 	False	 0 
+ 91 	 0 	False	 0 
+ 92 	 0 	False	 0 
+ 93 	 0 	False	 0 
+ 94 	 0 	False	 0 
+ 95 	 0 	False	 0 
+ 96 	 0 	False	 0 
+ 97 	 0 	False	 0 
+ 98 	 0 	False	 0 
+ 99 	 0 	False	 0 
+ 100 	 0 	False	 0 
+ 101 	 0 	False	 0 
+ 102 	 0 	False	 0 
+ 103 	 0 	False	 0 
+ 104 	 0 	False	 0 
+ 105 	 0 	False	 0 
+ 106 	 0 	False	 0 
+ 107 	 0 	False	 0 
+ 108 	 0 	False	 0 
+ 109 	 0 	False	 0 
+ 110 	 0 	False	 0 
+ 111 	 0 	False	 0 
+ 112 	 0 	False	 0 
+ 113 	 0 	False	 0 
+ 114 	 0 	False	 0 
+ 115 	 0 	False	 0 
+ 116 	 0 	False	 0 
+ 117 	 0 	False	 0 
+ 118 	 0 	False	 0 
+ 119 	 0 	False	 0 
+ 120 	 0 	False	 0 
+ 121 	 0 	False	 0 
+ 122 	 0 	False	 0 
+ 123 	 0 	False	 0 
+ 124 	 0 	False	 0 
+ 125 	 0 	False	 0 
+ 126 	 0 	False	 0 
+ 127 	 0 	False	 0 
+ 128 	 0 	False	 0 
+ 129 	 0 	False	 0 
+ 130 	 0 	False	 0 
+ 131 	 0 	False	 0 
+ 132 	 0 	False	 0 
+ 133 	 0 	False	 0 
+ 134 	 0 	False	 0 
+ 135 	 0 	False	 0 
+ 136 	 0 	False	 0 
+ 137 	 0 	False	 0 
+ 138 	 0 	False	 0 
+ 139 	 0 	False	 0 
+ 140 	 0 	False	 0 
+ 141 	 0 	False	 0 
+ 142 	 0 	False	 0 
+ 143 	 0 	False	 0 
+ 144 	 0 	False	 0 
+ 145 	 0 	False	 0 
+ 146 	 0 	False	 0 
+ 147 	 0 	False	 0 
+ 148 	 0 	False	 0 
+ 149 	 0 	False	 0 
+ 150 	 0 	False	 0 
+ 151 	 0 	False	 0 
+ 152 	 0 	False	 0 
+ 153 	 0 	False	 0 
+ 154 	 0 	False	 0 
+ 155 	 0 	False	 0 
+ 156 	 0 	False	 0 
+ 157 	 0 	False	 0 
+ 158 	 0 	False	 0 
+ 159 	 0 	False	 0 
+ 160 	 0 	False	 0 
+ 161 	 0 	False	 0 
+ 162 	 0 	False	 0 
+ 163 	 0 	False	 0 
+ 164 	 0 	False	 0 
+ 165 	 0 	False	 0 
+ 166 	 0 	False	 0 
+ 167 	 0 	False	 0 
+ 168 	 0 	False	 0 
+ 169 	 0 	False	 0 
+ 170 	 0 	False	 0 
+ 171 	 0 	False	 0 
+ 172 	 0 	False	 0 
+ 173 	 0 	False	 0 
+ 174 	 0 	False	 0 
+ 175 	 0 	False	 0 
+ 176 	 0 	False	 0 
+ 177 	 0 	False	 0 
+ 178 	 0 	False	 0 
+ 179 	 0 	False	 0 
+ 180 	 0 	False	 0 
+ 181 	 0 	False	 0 
+ 182 	 0 	False	 0 
+ 183 	 0 	False	 0 
+ 184 	 0 	False	 0 
+ 185 	 0 	False	 0 
+ 186 	 0 	False	 0 
+ 187 	 0 	False	 0 
+ 188 	 0 	False	 0 
+ 189 	 0 	False	 0 
+ 190 	 0 	False	 0 
+ 191 	 0 	False	 0 
+ 192 	 0 	False	 0 
+ 193 	 0 	False	 0 
+ 194 	 0 	False	 0 
+ 195 	 0 	False	 0 
+ 196 	 0 	False	 0 
+ 197 	 0 	False	 0 
+ 198 	 0 	False	 0 
+ 199 	 0 	False	 0 
+ 200 	 0 	False	 0 
+ 201 	 0 	False	 0 
+ 202 	 0 	False	 0 
+ 203 	 0 	False	 0 
+ 204 	 0 	False	 0 
+ 205 	 0 	False	 0 
+ 206 	 0 	False	 0 
+ 207 	 0 	False	 0 
+ 208 	 0 	False	 0 
+ 209 	 0 	False	 0 
+ 210 	 0 	False	 0 
+ 211 	 0 	False	 0 
+ 212 	 0 	False	 0 
+ 213 	 0 	False	 0 
+ 214 	 0 	False	 0 
+ 215 	 0 	False	 0 
+ 216 	 0 	False	 0 
+ 217 	 0 	False	 0 
+ 218 	 0 	False	 0 
+ 219 	 0 	False	 0 
+ 220 	 0 	False	 0 
+ 221 	 0 	False	 0 
+ 222 	 0 	False	 0 
+ 223 	 0 	False	 0 
+ 224 	 0 	False	 0 
+ 225 	 0 	False	 0 
+** SART experiment conducted on:	18/12/2002 19:21:56
+Participant name: 	
+Participant DOB: 	
+** SART experiment conducted on:	18/12/2002 19:32:07
+Participant name: 	
+Participant DOB: 	
+Participant Sex: 	
+Notes:	
+Response locking:	True
+Random order:	True
+** SART experiment conducted on:	18/12/2002 19:32:23
+Participant name: 	
+Participant DOB: 	
+Participant Sex: 	
+Notes:	
+Response locking:	False
+Random order:	True
+
+* RESULTS SUMMARY
+Errors of commission (number of 3s pressed for)	1
+Errors of omission (missed presses for non-3s)	202
+  - of which 0 were anticipatory responses.
+Mean correct RT 489.110189921515
+Standard deviation of RT  345.316963933604 
+
+* RAW DATA
+Trial	Target?	Response?	RT (ms)
+ 1 	 0 	False	 0 
+ 2 	 0 	True	 50.3 
+ 3 	 0 	True	 744.6 
+ 4 	 0 	True	 365.8 
+ 5 	 0 	True	 246.7 
+ 6 	 0 	True	 216.6 
+ 7 	 0 	True	 861.6 
+ 8 	 0 	True	 857.2 
+ 9 	 0 	True	 767.7 
+ 10 	 0 	True	 928.5 
+ 11 	 0 	True	 1054.6 
+ 12 	 0 	True	 899.8 
+ 13 	 0 	True	 704.8 
+ 14 	 0 	True	 640.9 
+ 15 	 0 	True	 417.4 
+ 16 	 0 	True	 242.7 
+ 17 	 0 	True	 267.3 
+ 18 	 0 	True	 259.8 
+ 19 	 0 	True	 230.5 
+ 20 	 0 	True	 188.9 
+ 21 	 0 	True	 179 
+ 22 	 0 	True	 68.6 
+ 23 	 1 	True	 21.2 
+ 24 	 0 	True	 1034.8 
+ 25 	 0 	False	 0 
+ 26 	 0 	False	 0 
+ 27 	 0 	False	 0 
+ 28 	 0 	False	 0 
+ 29 	 0 	False	 0 
+ 30 	 0 	False	 0 
+ 31 	 0 	False	 0 
+ 32 	 0 	False	 0 
+ 33 	 0 	False	 0 
+ 34 	 0 	False	 0 
+ 35 	 0 	False	 0 
+ 36 	 0 	False	 0 
+ 37 	 0 	False	 0 
+ 38 	 0 	False	 0 
+ 39 	 0 	False	 0 
+ 40 	 0 	False	 0 
+ 41 	 0 	False	 0 
+ 42 	 0 	False	 0 
+ 43 	 0 	False	 0 
+ 44 	 0 	False	 0 
+ 45 	 0 	False	 0 
+ 46 	 0 	False	 0 
+ 47 	 0 	False	 0 
+ 48 	 0 	False	 0 
+ 49 	 0 	False	 0 
+ 50 	 0 	False	 0 
+ 51 	 0 	False	 0 
+ 52 	 0 	False	 0 
+ 53 	 0 	False	 0 
+ 54 	 0 	False	 0 
+ 55 	 0 	False	 0 
+ 56 	 0 	False	 0 
+ 57 	 0 	False	 0 
+ 58 	 0 	False	 0 
+ 59 	 0 	False	 0 
+ 60 	 0 	False	 0 
+ 61 	 0 	False	 0 
+ 62 	 0 	False	 0 
+ 63 	 0 	False	 0 
+ 64 	 0 	False	 0 
+ 65 	 0 	False	 0 
+ 66 	 0 	False	 0 
+ 67 	 0 	False	 0 
+ 68 	 0 	False	 0 
+ 69 	 0 	False	 0 
+ 70 	 0 	False	 0 
+ 71 	 0 	False	 0 
+ 72 	 0 	False	 0 
+ 73 	 0 	False	 0 
+ 74 	 0 	False	 0 
+ 75 	 0 	False	 0 
+ 76 	 0 	False	 0 
+ 77 	 0 	False	 0 
+ 78 	 0 	False	 0 
+ 79 	 0 	False	 0 
+ 80 	 0 	False	 0 
+ 81 	 0 	False	 0 
+ 82 	 0 	False	 0 
+ 83 	 0 	False	 0 
+ 84 	 0 	False	 0 
+ 85 	 0 	False	 0 
+ 86 	 0 	False	 0 
+ 87 	 0 	False	 0 
+ 88 	 0 	False	 0 
+ 89 	 0 	False	 0 
+ 90 	 0 	False	 0 
+ 91 	 0 	False	 0 
+ 92 	 0 	False	 0 
+ 93 	 0 	False	 0 
+ 94 	 0 	False	 0 
+ 95 	 0 	False	 0 
+ 96 	 0 	False	 0 
+ 97 	 0 	False	 0 
+ 98 	 0 	False	 0 
+ 99 	 0 	False	 0 
+ 100 	 0 	False	 0 
+ 101 	 0 	False	 0 
+ 102 	 0 	False	 0 
+ 103 	 0 	False	 0 
+ 104 	 0 	False	 0 
+ 105 	 0 	False	 0 
+ 106 	 0 	False	 0 
+ 107 	 0 	False	 0 
+ 108 	 0 	False	 0 
+ 109 	 0 	False	 0 
+ 110 	 0 	False	 0 
+ 111 	 0 	False	 0 
+ 112 	 0 	False	 0 
+ 113 	 0 	False	 0 
+ 114 	 0 	False	 0 
+ 115 	 0 	False	 0 
+ 116 	 0 	False	 0 
+ 117 	 0 	False	 0 
+ 118 	 0 	False	 0 
+ 119 	 0 	False	 0 
+ 120 	 0 	False	 0 
+ 121 	 0 	False	 0 
+ 122 	 0 	False	 0 
+ 123 	 0 	False	 0 
+ 124 	 0 	False	 0 
+ 125 	 0 	False	 0 
+ 126 	 0 	False	 0 
+ 127 	 0 	False	 0 
+ 128 	 0 	False	 0 
+ 129 	 0 	False	 0 
+ 130 	 0 	False	 0 
+ 131 	 0 	False	 0 
+ 132 	 0 	False	 0 
+ 133 	 0 	False	 0 
+ 134 	 0 	False	 0 
+ 135 	 0 	False	 0 
+ 136 	 0 	False	 0 
+ 137 	 0 	False	 0 
+ 138 	 0 	False	 0 
+ 139 	 0 	False	 0 
+ 140 	 0 	False	 0 
+ 141 	 0 	False	 0 
+ 142 	 0 	False	 0 
+ 143 	 0 	False	 0 
+ 144 	 0 	False	 0 
+ 145 	 0 	False	 0 
+ 146 	 0 	False	 0 
+ 147 	 0 	False	 0 
+ 148 	 0 	False	 0 
+ 149 	 0 	False	 0 
+ 150 	 0 	False	 0 
+ 151 	 0 	False	 0 
+ 152 	 0 	False	 0 
+ 153 	 0 	False	 0 
+ 154 	 0 	False	 0 
+ 155 	 0 	False	 0 
+ 156 	 0 	False	 0 
+ 157 	 0 	False	 0 
+ 158 	 0 	False	 0 
+ 159 	 0 	False	 0 
+ 160 	 0 	False	 0 
+ 161 	 0 	False	 0 
+ 162 	 0 	False	 0 
+ 163 	 0 	False	 0 
+ 164 	 0 	False	 0 
+ 165 	 0 	False	 0 
+ 166 	 0 	False	 0 
+ 167 	 0 	False	 0 
+ 168 	 0 	False	 0 
+ 169 	 0 	False	 0 
+ 170 	 0 	False	 0 
+ 171 	 0 	False	 0 
+ 172 	 0 	False	 0 
+ 173 	 0 	False	 0 
+ 174 	 0 	False	 0 
+ 175 	 0 	False	 0 
+ 176 	 0 	False	 0 
+ 177 	 0 	False	 0 
+ 178 	 0 	False	 0 
+ 179 	 0 	False	 0 
+ 180 	 0 	False	 0 
+ 181 	 0 	False	 0 
+ 182 	 0 	False	 0 
+ 183 	 0 	False	 0 
+ 184 	 0 	False	 0 
+ 185 	 0 	False	 0 
+ 186 	 0 	False	 0 
+ 187 	 0 	False	 0 
+ 188 	 0 	False	 0 
+ 189 	 0 	False	 0 
+ 190 	 0 	False	 0 
+ 191 	 0 	False	 0 
+ 192 	 0 	False	 0 
+ 193 	 0 	False	 0 
+ 194 	 0 	False	 0 
+ 195 	 0 	False	 0 
+ 196 	 0 	False	 0 
+ 197 	 0 	False	 0 
+ 198 	 0 	False	 0 
+ 199 	 0 	False	 0 
+ 200 	 0 	False	 0 
+ 201 	 0 	False	 0 
+ 202 	 0 	False	 0 
+ 203 	 0 	False	 0 
+ 204 	 0 	False	 0 
+ 205 	 0 	False	 0 
+ 206 	 0 	False	 0 
+ 207 	 0 	False	 0 
+ 208 	 0 	False	 0 
+ 209 	 0 	False	 0 
+ 210 	 0 	False	 0 
+ 211 	 0 	False	 0 
+ 212 	 0 	False	 0 
+ 213 	 0 	False	 0 
+ 214 	 0 	False	 0 
+ 215 	 0 	False	 0 
+ 216 	 0 	False	 0 
+ 217 	 0 	False	 0 
+ 218 	 0 	False	 0 
+ 219 	 0 	False	 0 
+ 220 	 0 	False	 0 
+ 221 	 0 	False	 0 
+ 222 	 0 	False	 0 
+ 223 	 0 	False	 0 
+ 224 	 0 	False	 0 
+ 225 	 0 	False	 0 
+** SART experiment conducted on:	18/12/2002 19:34:43
+Participant name: 	
+Participant DOB: 	
+Participant Sex: 	
+Notes:	
+Response locking:	True
+Random order:	True
+
+* RESULTS SUMMARY
+Errors of commission (number of 3s pressed for)	1
+Errors of omission (missed presses for non-3s)	202
+  - of which 1 were anticipatory responses.
+Mean correct RT 486.85573166422
+Standard deviation of RT  421.653487079014 
+
+* RAW DATA
+Trial	Target?	Response?	RT (ms)
+ 1 	 0 	True	 478.5 
+ 2 	 0 	True	 282.4 
+ 3 	 0 	True	 163.1 
+ 4 	 0 	True	 97.8 
+ 5 	 0 	True	 101.6 
+ 6 	 0 	True	 176.4 
+ 7 	 0 	True	 180 
+ 8 	 0 	True	 180.7 
+ 9 	 0 	True	 121.5 
+ 10 	 0 	True	 111.7 
+ 11 	 0 	True	 60.7 
+ 12 	 0 	True	-55.9 
+ 13 	 0 	True	 19.7 
+ 14 	 0 	True	 1021.1 
+ 15 	 0 	False	 0 
+ 16 	 0 	True	 1004.9 
+ 17 	 0 	True	 879.8 
+ 18 	 0 	True	 1060.3 
+ 19 	 0 	True	 1118.4 
+ 20 	 0 	True	 960.3 
+ 21 	 0 	True	 870.2 
+ 22 	 0 	True	 843.4 
+ 23 	 1 	True	 933.4 
+ 24 	 0 	False	 0 
+ 25 	 0 	True	 44.8 
+ 26 	 0 	False	 0 
+ 27 	 0 	False	 0 
+ 28 	 0 	False	 0 
+ 29 	 0 	False	 0 
+ 30 	 0 	False	 0 
+ 31 	 0 	False	 0 
+ 32 	 0 	False	 0 
+ 33 	 0 	False	 0 
+ 34 	 0 	False	 0 
+ 35 	 0 	False	 0 
+ 36 	 0 	False	 0 
+ 37 	 0 	False	 0 
+ 38 	 0 	False	 0 
+ 39 	 0 	False	 0 
+ 40 	 0 	False	 0 
+ 41 	 0 	False	 0 
+ 42 	 0 	False	 0 
+ 43 	 0 	False	 0 
+ 44 	 0 	False	 0 
+ 45 	 0 	False	 0 
+ 46 	 0 	False	 0 
+ 47 	 0 	False	 0 
+ 48 	 0 	False	 0 
+ 49 	 0 	False	 0 
+ 50 	 0 	False	 0 
+ 51 	 0 	False	 0 
+ 52 	 0 	False	 0 
+ 53 	 0 	False	 0 
+ 54 	 0 	False	 0 
+ 55 	 0 	False	 0 
+ 56 	 0 	False	 0 
+ 57 	 0 	False	 0 
+ 58 	 0 	False	 0 
+ 59 	 0 	False	 0 
+ 60 	 0 	False	 0 
+ 61 	 0 	False	 0 
+ 62 	 0 	False	 0 
+ 63 	 0 	False	 0 
+ 64 	 0 	False	 0 
+ 65 	 0 	False	 0 
+ 66 	 0 	False	 0 
+ 67 	 0 	False	 0 
+ 68 	 0 	False	 0 
+ 69 	 0 	False	 0 
+ 70 	 0 	False	 0 
+ 71 	 0 	False	 0 
+ 72 	 0 	False	 0 
+ 73 	 0 	False	 0 
+ 74 	 0 	False	 0 
+ 75 	 0 	False	 0 
+ 76 	 0 	False	 0 
+ 77 	 0 	False	 0 
+ 78 	 0 	False	 0 
+ 79 	 0 	False	 0 
+ 80 	 0 	False	 0 
+ 81 	 0 	False	 0 
+ 82 	 0 	False	 0 
+ 83 	 0 	False	 0 
+ 84 	 0 	False	 0 
+ 85 	 0 	False	 0 
+ 86 	 0 	False	 0 
+ 87 	 0 	False	 0 
+ 88 	 0 	False	 0 
+ 89 	 0 	False	 0 
+ 90 	 0 	False	 0 
+ 91 	 0 	False	 0 
+ 92 	 0 	False	 0 
+ 93 	 0 	False	 0 
+ 94 	 0 	False	 0 
+ 95 	 0 	False	 0 
+ 96 	 0 	False	 0 
+ 97 	 0 	False	 0 
+ 98 	 0 	False	 0 
+ 99 	 0 	False	 0 
+ 100 	 0 	False	 0 
+ 101 	 0 	False	 0 
+ 102 	 0 	False	 0 
+ 103 	 0 	False	 0 
+ 104 	 0 	False	 0 
+ 105 	 0 	False	 0 
+ 106 	 0 	False	 0 
+ 107 	 0 	False	 0 
+ 108 	 0 	False	 0 
+ 109 	 0 	False	 0 
+ 110 	 0 	False	 0 
+ 111 	 0 	False	 0 
+ 112 	 0 	False	 0 
+ 113 	 0 	False	 0 
+ 114 	 0 	False	 0 
+ 115 	 0 	False	 0 
+ 116 	 0 	False	 0 
+ 117 	 0 	False	 0 
+ 118 	 0 	False	 0 
+ 119 	 0 	False	 0 
+ 120 	 0 	False	 0 
+ 121 	 0 	False	 0 
+ 122 	 0 	False	 0 
+ 123 	 0 	False	 0 
+ 124 	 0 	False	 0 
+ 125 	 0 	False	 0 
+ 126 	 0 	False	 0 
+ 127 	 0 	False	 0 
+ 128 	 0 	False	 0 
+ 129 	 0 	False	 0 
+ 130 	 0 	False	 0 
+ 131 	 0 	False	 0 
+ 132 	 0 	False	 0 
+ 133 	 0 	False	 0 
+ 134 	 0 	False	 0 
+ 135 	 0 	False	 0 
+ 136 	 0 	False	 0 
+ 137 	 0 	False	 0 
+ 138 	 0 	False	 0 
+ 139 	 0 	False	 0 
+ 140 	 0 	False	 0 
+ 141 	 0 	False	 0 
+ 142 	 0 	False	 0 
+ 143 	 0 	False	 0 
+ 144 	 0 	False	 0 
+ 145 	 0 	False	 0 
+ 146 	 0 	False	 0 
+ 147 	 0 	False	 0 
+ 148 	 0 	False	 0 
+ 149 	 0 	False	 0 
+ 150 	 0 	False	 0 
+ 151 	 0 	False	 0 
+ 152 	 0 	False	 0 
+ 153 	 0 	False	 0 
+ 154 	 0 	False	 0 
+ 155 	 0 	False	 0 
+ 156 	 0 	False	 0 
+ 157 	 0 	False	 0 
+ 158 	 0 	False	 0 
+ 159 	 0 	False	 0 
+ 160 	 0 	False	 0 
+ 161 	 0 	False	 0 
+ 162 	 0 	False	 0 
+ 163 	 0 	False	 0 
+ 164 	 0 	False	 0 
+ 165 	 0 	False	 0 
+ 166 	 0 	False	 0 
+ 167 	 0 	False	 0 
+ 168 	 0 	False	 0 
+ 169 	 0 	False	 0 
+ 170 	 0 	False	 0 
+ 171 	 0 	False	 0 
+ 172 	 0 	False	 0 
+ 173 	 0 	False	 0 
+ 174 	 0 	False	 0 
+ 175 	 0 	False	 0 
+ 176 	 0 	False	 0 
+ 177 	 0 	False	 0 
+ 178 	 0 	False	 0 
+ 179 	 0 	False	 0 
+ 180 	 0 	False	 0 
+ 181 	 0 	False	 0 
+ 182 	 0 	False	 0 
+ 183 	 0 	False	 0 
+ 184 	 0 	False	 0 
+ 185 	 0 	False	 0 
+ 186 	 0 	False	 0 
+ 187 	 0 	False	 0 
+ 188 	 0 	False	 0 
+ 189 	 0 	False	 0 
+ 190 	 0 	False	 0 
+ 191 	 0 	False	 0 
+ 192 	 0 	False	 0 
+ 193 	 0 	False	 0 
+ 194 	 0 	False	 0 
+ 195 	 0 	False	 0 
+ 196 	 0 	False	 0 
+ 197 	 0 	False	 0 
+ 198 	 0 	False	 0 
+ 199 	 0 	False	 0 
+ 200 	 0 	False	 0 
+ 201 	 0 	False	 0 
+ 202 	 0 	False	 0 
+ 203 	 0 	False	 0 
+ 204 	 0 	False	 0 
+ 205 	 0 	False	 0 
+ 206 	 0 	False	 0 
+ 207 	 0 	False	 0 
+ 208 	 0 	False	 0 
+ 209 	 0 	False	 0 
+ 210 	 0 	False	 0 
+ 211 	 0 	False	 0 
+ 212 	 0 	False	 0 
+ 213 	 0 	False	 0 
+ 214 	 0 	False	 0 
+ 215 	 0 	False	 0 
+ 216 	 0 	False	 0 
+ 217 	 0 	False	 0 
+ 218 	 0 	False	 0 
+ 219 	 0 	False	 0 
+ 220 	 0 	False	 0 
+ 221 	 0 	False	 0 
+ 222 	 0 	False	 0 
+ 223 	 0 	False	 0 
+ 224 	 0 	False	 0 
+ 225 	 0 	False	 0 
+** SART experiment conducted on:	18/12/2002 19:37:09
+Participant name: 	
+Participant DOB: 	
+Participant Sex: 	
+Notes:	
+Response locking:	True
+Random order:	False
+** SART experiment conducted on:	18/12/2002 19:39:50
+Participant name: 	
+Participant DOB: 	
+Participant Sex: 	
+Notes:	
+Response locking:	True
+Random order:	True
+** SART experiment conducted on:	02/07/2003 12:26:26
+Participant name: 	
+Participant DOB: 	
+Participant Sex: 	
+Notes:	
+Response locking:	False
+Random order:	True
+** SART experiment conducted on:	02/07/2003 12:29:49
+Participant name: 	
+Participant DOB: 	
+Participant Sex: 	
+Notes:	
+Response locking:	False
+Random order:	True
+** SART experiment conducted on:	02/07/2003 14:31:47
+Participant name: 	
+Participant DOB: 	
+Participant Sex: 	
+Notes:	
+Response locking:	False
+Random order:	True
+** SART experiment conducted on:	02/07/2003 14:34:16
+Participant name: 	
+Participant DOB: 	
+Participant Sex: 	
+Notes:	
+Response locking:	False
+Random order:	True
+** SART experiment conducted on:	02/07/2003 16:40:06
+Participant name: 	
+Participant DOB: 	
+Participant Sex: 	
+Notes:	
+Response locking:	False
+Random order:	True
+** SART experiment conducted on:	02/07/2003 16:41:09
+Participant name: 	
+Participant DOB: 	
+Participant Sex: 	Male
+Notes:	
+Response locking:	False
+Random order:	True
+** SART experiment conducted on:	02/07/2003 16:44:50
+Participant name: 	
+Participant DOB: 	
+Participant Sex: 	
+Notes:	
+Response locking:	False
+Random order:	True
+** SART experiment conducted on:	02/07/2003 16:45:37
+Participant name: 	
+Participant DOB: 	
+Participant Sex: 	
+Notes:	
+Response locking:	False
+Random order:	True
+
+* RESULTS SUMMARY
+Errors of commission (number of 3s pressed for)	1
+Errors of omission (missed presses for non-3s)	0
+  - of which 0 were anticipatory responses.
+Mean correct RT 257.788676121313
+Standard deviation of RT  77.9319738846967 
+
+* RAW DATA
+Trial	Target?	Response?	RT (ms)
+ 1 	 0 	True	 423 
+ 2 	 0 	True	 322.4 
+ 3 	 1 	True	 270.2 
+ 4 	 0 	True	 237.6 
+ 5 	 0 	True	 171.3 
+ 6 	 0 	True	 176.2 
+ 7 	 0 	True	 212.7 
+ 8 	 0 	True	 266.6 
+ 9 	 0 	True	 240.1 
+** SART experiment conducted on:	02/07/2003 16:46:51
+Participant name: 	
+Participant DOB: 	
+Participant Sex: 	
+Notes:	
+Response locking:	False
+Random order:	True
+** SART experiment conducted on:	02/07/2003 16:50:40
+Participant name: 	
+Participant DOB: 	
+Participant Sex: 	
+Notes:	
+Response locking:	False
+Random order:	True
+** SART experiment conducted on:	02/07/2003 16:51:45
+Participant name: 	
+Participant DOB: 	
+Participant Sex: 	
+Notes:	
+Response locking:	False
+Random order:	True
+
+* RESULTS SUMMARY
+Errors of commission (number of 3s pressed for)	0
+Errors of omission (missed presses for non-3s)	1
+  - of which 0 were anticipatory responses.
+Mean correct RT 337.131718207202
+Standard deviation of RT  47.7691398124417 
+
+* RAW DATA
+Trial	Target?	Response?	RT (ms)
+ 1 	 0 	True	 411.2 
+ 2 	 0 	True	 329.7 
+ 3 	 0 	True	 302.9 
+ 4 	 0 	True	 373.2 
+ 5 	 0 	True	 366.5 
+ 6 	 0 	True	 277 
+ 7 	 0 	True	 355.5 
+ 8 	 1 	False	 0 
+ 9 	 0 	True	 281 
+** SART experiment conducted on:	02/07/2003 16:52:47
+Participant name: 	
+Participant DOB: 	
+Participant Sex: 	
+Notes:	
+Response locking:	False
+Random order:	True
+** SART experiment conducted on:	02/07/2003 16:53:23
+Participant name: 	
+Participant DOB: 	
+Participant Sex: 	
+Notes:	
+Response locking:	False
+Random order:	True
+** SART experiment conducted on:	02/07/2003 16:54:10
+Participant name: 	
+Participant DOB: 	
+Participant Sex: 	
+Notes:	
+Response locking:	False
+Random order:	True
+** SART experiment conducted on:	02/07/2003 17:00:24
+Participant name: 	
+Participant DOB: 	
+Participant Sex: 	
+Notes:	
+Response locking:	False
+Random order:	True
+** SART experiment conducted on:	02/07/2003 17:01:15
+Participant name: 	
+Participant DOB: 	
+Participant Sex: 	Male
+Notes:	
+Response locking:	False
+Random order:	True
+** SART experiment conducted on:	02/07/2003 17:08:43
+Participant name: 	
+Participant DOB: 	
+Participant Sex: 	
+Notes:	
+Response locking:	False
+Random order:	True
+** SART experiment conducted on:	02/07/2003 17:09:59
+Participant name: 	
+Participant DOB: 	
+Participant Sex: 	Male
+Notes:	
+Response locking:	False
+Random order:	True
+** SART experiment conducted on:	02/07/2003 17:12:26
+Participant name: 	
+Participant DOB: 	
+Participant Sex: 	
+Notes:	
+Response locking:	False
+Random order:	True
+
+* RESULTS SUMMARY
+Errors of commission (number of 3s pressed for)	1
+Errors of omission (missed presses for non-3s)	0
+  - of which 0 were anticipatory responses.
+Mean correct RT 269.176901906062
+Standard deviation of RT  57.2913113413889 
+
+* RAW DATA
+Trial	Target?	Response?	RT (ms)
+ 1 	 0 	True	 354.7 
+ 2 	 0 	True	 291.1 
+ 3 	 0 	True	 236.3 
+ 4 	 0 	True	 209.7 
+ 5 	 0 	True	 254.2 
+ 6 	 0 	True	 264.4 
+ 7 	 1 	True	 332.3 
+ 8 	 0 	True	 302.7 
+ 9 	 0 	True	 177.1 
+** SART experiment conducted on:	02/07/2003 17:13:10
+Participant name: 	
+Participant DOB: 	
+Participant Sex: 	
+Notes:	
+Response locking:	False
+Random order:	True
+** SART experiment conducted on:	02/07/2003 17:21:41
+Participant name: 	
+Participant DOB: 	
+Participant Sex: 	
+Notes:	
+Response locking:	False
+Random order:	True
+
+* RESULTS SUMMARY
+Errors of commission (number of 3s pressed for)	0
+Errors of omission (missed presses for non-3s)	0
+  - of which 0 were anticipatory responses.
+Mean correct RT 249.728265044859
+Standard deviation of RT  87.1605177538368 
+
+* RAW DATA
+Trial	Target?	Response?	RT (ms)
+ 1 	 0 	True	 415 
+ 2 	 0 	True	 309 
+ 3 	 1 	False	 0 
+ 4 	 0 	True	 246.6 
+ 5 	 0 	True	 232 
+ 6 	 0 	True	 231.4 
+ 7 	 0 	True	 108.4 
+ 8 	 0 	True	 208 
+ 9 	 0 	True	 247.4 
+** SART experiment conducted on:	02/07/2003 17:22:33
+Participant name: 	
+Participant DOB: 	
+Participant Sex: 	
+Notes:	
+Response locking:	False
+Random order:	True
